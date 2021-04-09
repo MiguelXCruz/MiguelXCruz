@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MiguelXCruz
 - 👀 I’m interested in apply for my first job at dev. with my frot-end's skills
 - 🌱 I’m currently learning about JS, React Native, React
-- 💞️ I’m looking to collaborate on ...
 - 📫 Rich me by miguelcruz074@gmail.com
 
 <!---

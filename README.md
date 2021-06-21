@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 🔭 I am currently working on [Combate à Fraude](https://github.com/combateafraude)
-- 👀 I’m interested in apply for my first job at developer
-- 🌱 I’m currently learning about tecnologies
+- 👀 I’m interested in apply for my first job as a mobile developer
+- 🌱 I’m currently learning about new tecnologies
 - 📫 Rich me by miguelcruz074@gmail.com
 
 <br>

@@ -13,9 +13,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-- 🔭 I am currently working on [Combate à Fraude](https://github.com/combateafraude)
-- 👀 I’m interested in apply for my first job as a mobile developer
-- 🌱 I’m currently learning about new tecnologies
+- 🔭 I am currently working as a mobile developer at [Combate à Fraude](https://github.com/combateafraude)
+- 🌱 I’m currently learning about new tecnologies and innovations for the future
 - 📫 Rich me by miguelcruz074@gmail.com
 
 <br>
@@ -62,7 +61,7 @@ You can click the Preview link to take a look at your changes.
   <br>
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/> 
  <br>
  </p>

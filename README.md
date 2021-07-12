@@ -49,8 +49,8 @@ You can click the Preview link to take a look at your changes.
   
   <br>
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="80" height="80"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android_native" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80"/>   
+
     
   <br>
   </p>
@@ -62,9 +62,7 @@ You can click the Preview link to take a look at your changes.
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" width="80" height="80"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80"/>   
- 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/> 
  <br>
  </p>
  

@@ -35,12 +35,14 @@ You can click the Preview link to take a look at your changes.
   <br>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android_native" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="80" height="80"/>   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="80" height="80"/>
   
   <br>
  </p>
@@ -49,8 +51,8 @@ You can click the Preview link to take a look at your changes.
   
   <br>
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80"/>   
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="80" height="80"/>   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactNative" width="80" height="80"/>
     
   <br>
   </p>
@@ -60,7 +62,6 @@ You can click the Preview link to take a look at your changes.
   
   <br>
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/> 
  <br>

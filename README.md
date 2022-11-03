@@ -51,9 +51,9 @@ You can click the Preview link to take a look at your changes.
   
   <br>
   <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="80" height="80"/>   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactNative" width="80" height="80"/>
-    
   <br>
   </p>
   
@@ -62,8 +62,7 @@ You can click the Preview link to take a look at your changes.
   
   <br>
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="80" height="80"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="80" height="80"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactNative" width="80" height="80"/>
  <br>
  </p>
  

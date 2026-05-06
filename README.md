@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 🔭 I am currently working as a mobile developer at [Sympla](https://www.sympla.com.br/)
+- 🏋🏻‍♀️ I just release a app called Trainr, and I would love if you gave it a shot!! [Check it out](https://linktr.ee/trainrapp?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnXW9knRHrQH_lDZptajh9VUmIJyGLIK9y3KX68DA3kf6AS6aU8xtuB14iC7A_aem_TDSj6sk9PahIKNQ7yCGaPA)
 - 📫 Lets connect? Contact me by miguelcruz074@gmail.com
 
 <br>
